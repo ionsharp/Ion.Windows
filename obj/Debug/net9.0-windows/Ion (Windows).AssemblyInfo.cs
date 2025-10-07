@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("No rights reserved.")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Common elements for the Windows operating system.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+34e19b6f52522291fb42b2f0e6dadd2f237a57b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+d7cb42898787f4e1f75e8c3d618b74467a681006")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ion.Windows")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ion.Windows")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
