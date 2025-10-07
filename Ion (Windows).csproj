@@ -46,7 +46,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="readme.md">
+    <None Update="README.md">
       <PackagePath>\</PackagePath>
       <Pack>True</Pack>
     </None>
