@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <LangVersion>preview</LangVersion>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>Ion</Authors>
+    <Company>Ion</Company>
+    <Copyright>No rights reserved.</Copyright>
+    <Description>Common elements for the Windows operating system.</Description>
+    <NeutralLanguage>en</NeutralLanguage>
+    <RepositoryUrl>https://github.com/ionsharp/</RepositoryUrl>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AssemblyName>Ion.Windows</AssemblyName>
+    <AssemblyTitle>Ion.Windows</AssemblyTitle>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <RootNamespace>Ion.Windows</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <COMReference Include="Shell32">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>50a7e9b0-70ef-11d1-b75a-00a0c90564fe</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="readme.md">
+      <PackagePath>\</PackagePath>
+      <Pack>True</Pack>
+    </None>
+  </ItemGroup>
+</Project>
