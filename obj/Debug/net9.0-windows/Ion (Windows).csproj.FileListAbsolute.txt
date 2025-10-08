@@ -1,13 +1,17 @@
 C:\Users\james\OneDrive\GitHub\Ion.Windows\bin\Debug\net9.0-windows\Ion.Windows.deps.json
+C:\Users\james\OneDrive\GitHub\Ion.Windows\bin\Debug\net9.0-windows\Ion.Windows.runtimeconfig.json
 C:\Users\james\OneDrive\GitHub\Ion.Windows\bin\Debug\net9.0-windows\Ion.Windows.dll
 C:\Users\james\OneDrive\GitHub\Ion.Windows\bin\Debug\net9.0-windows\Ion.Windows.pdb
+C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion (Windows).csproj.AssemblyReference.cache
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Interop.Shell32.dll
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion (Windows).csproj.ResolveComReference.cache
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion (Windows).GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion (Windows).AssemblyInfoInputs.cache
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion (Windows).AssemblyInfo.cs
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion (Windows).csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion (Windows).sourcelink.json
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion.Windows.dll
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\refint\Ion.Windows.dll
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion.Windows.pdb
+C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\Ion (Windows).genruntimeconfig.cache
 C:\Users\james\OneDrive\GitHub\Ion.Windows\obj\Debug\net9.0-windows\ref\Ion.Windows.dll

@@ -1,4 +1,6 @@
-Ion.Windows ![](https://img.shields.io/badge/style-1.0-blue.svg?style=flat&label=Version)
+Ion.Windows 
+![](https://img.shields.io/badge/style-Stable-green.svg?style=flat&label=Build)
+![](https://img.shields.io/badge/style-1.0-blue.svg?style=flat&label=Version)
 ---
 ...
 
